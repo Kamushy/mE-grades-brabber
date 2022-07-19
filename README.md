@@ -1,4 +1,4 @@
-# mE-grades-brabber
+# mE-grades-grabber
 Get a dynamic graph of all your grades by simply logging in
 # Images
 ### Window with averages
